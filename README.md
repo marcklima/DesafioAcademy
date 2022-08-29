@@ -7,7 +7,7 @@ Documentação do processo de estudo
 
 Primeiro ato para o desenvolvimento do aplicativo foi rabiscar, rabiscar mesmo, rabiscar muito, pois as ideias estavam misturadas, após rabiscar consegui juntar os quebras cabeças e organizar os passos num papel, passos fundamentais para listar as necessidades e assim foi feito.
 
-ORGANIZANDO A BAGUNÇA
+ORGANIZANDO A BAGUNÇA <p>
 Os Seguintes passos foram observados:
 1. Qual linguagem?
 2. Criar uma lista única com todos os alunos com o objetivo de quantificar e facilitar o sorteio dos alunos em seus grupos
